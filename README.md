@@ -1,4 +1,4 @@
-#BLOG TEMPLATE
+A BLOG TEMPLATE
 
 
 A blog template built in HTML & CSS.
